@@ -1,0 +1,1 @@
+# Reporting-AspNetCore-Specify-Parameters-in-URL-Query-String
