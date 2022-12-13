@@ -26,9 +26,8 @@ namespace ReportingApp {
         public void ConfigureServices(IServiceCollection services) {
             services.AddDevExpressControls();
             services
-                .AddMvc()
-                .AddNewtonsoftJson()
-                .SetCompatibilityVersion(Microsoft.AspNetCore.Mvc.CompatibilityVersion.Version_3_0);
+                .AddControllersWithViews()
+                .AddNewtonsoftJson();
             services.ConfigureReportingServices(configurator => {
                 configurator.ConfigureReportDesigner(designerConfigurator => {
                     designerConfigurator.RegisterDataSourceWizardConfigFileConnectionStringsProvider();
