@@ -2,7 +2,7 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T1020316)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-# ASP.NET Core Reporting - Specify Parameter Values
+# Reporting for ASP.NET Core - Specify Parameter Values in a URL Query String
 
 This example demonstrates how to submit parameter values in a URL query string and implement the viewer's action method to apply the values to a report.
 
