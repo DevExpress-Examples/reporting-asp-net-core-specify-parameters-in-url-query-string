@@ -22,4 +22,4 @@ This example demonstrates how to submit parameter values in a URL query string a
 
 ## Documentation
 
-+ [Specify Parameter Values in an ASP.NET Core Reporting Application](https://docs.devexpress.com/XtraReports/403229).
+* [Specify Parameter Values in an ASP.NET Core Reporting Application](https://docs.devexpress.com/XtraReports/403229).
