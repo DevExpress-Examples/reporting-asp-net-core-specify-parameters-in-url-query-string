@@ -29,22 +29,11 @@
     <Exec Command="npm install" />
   </Target>
   <ItemGroup>
-    <None Remove="PredefinedReports\XtraReport1.vsrepx" />
-  </ItemGroup>
-  <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="8.0.11" />
     <PackageReference Include="System.Data.SQLite" Version="1.0.113.1" />
     <PackageReference Include="DevExpress.AspNetCore.Reporting" Version="24.2.*-*" />
     <PackageReference Include="BuildBundlerMinifier" Version="3.2.449" />
     <PackageReference Include="Microsoft.Web.LibraryManager.Build" Version="2.1.76" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="8.0.11" />
-  </ItemGroup>
-  <ItemGroup>
-    <Compile Update="PredefinedReports\XtraReport1.cs">
-      <DependentUpon>XtraReport1.vsrepx</DependentUpon>
-    </Compile>
-    <Compile Update="PredefinedReports\XtraReport1.Designer.cs">
-      <DependentUpon>XtraReport1.vsrepx</DependentUpon>
-    </Compile>
   </ItemGroup>
 </Project>

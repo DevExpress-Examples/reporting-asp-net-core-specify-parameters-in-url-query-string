@@ -1,12 +1,12 @@
+﻿using DevExpress.XtraReports.UI;
 using System;
-using DevExpress.XtraReports.UI;
+using System.Collections;
+using System.ComponentModel;
+using System.Drawing;
 
-namespace ReportingApp.PredefinedReports
-{
-    public partial class XtraReport1
-    {
-        public XtraReport1()
-        {
+namespace ReportingApp.PredefinedReports {
+    public partial class XtraReport1 : DevExpress.XtraReports.UI.XtraReport {
+        public XtraReport1() {
             InitializeComponent();
         }
     }
