@@ -25,7 +25,7 @@ This example demonstrates how to submit parameter values in a URL query string a
 
 * [Specify Parameter Values in an ASP.NET Core Reporting Application](https://docs.devexpress.com/XtraReports/403229).
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=reporting-asp-net-core-specify-parameters-in-url-query-string&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=reporting-asp-net-core-specify-parameters-in-url-query-string&~~~was_helpful=no)
 
